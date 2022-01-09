@@ -1,1 +1,1 @@
-
+The GUI is fairly self-explanatory. The user provides the url for the first page of the book and clicks "Get 1st page" and the text on that webpage is webscrapped. The extracted text is provided in a text box and the link to the next page is identified and is ouptuted in "Next page" box. If the text look good, click "Get full text" to retrieve the rest of the book - the text from the next page and link to the subsequent page is likewise read until the end of the book is reached. The text can be saved using the save button or copied from the text box.
